@@ -1,0 +1,59 @@
+
+= Book Title
+K Siva Prasad Reddy <sivaprasadreddy.k@gmail.com>
+v1.0, 2015-12-01
+//:toc: left
+//:toc:
+:toc: macro
+:imagesdir: images
+:homepage: http://sivalabs.in
+
+:source-highlighter: coderay
+
+image::cover.png[]
+
+<<<
+
+include::chapters/copyright.adoc[]
+
+<<<
+
+include::chapters/about-authors.adoc[]
+
+<<<
+
+include::chapters/about-reviewers.adoc[]
+
+<<<
+
+toc::[]
+
+<<<
+
+include::chapters/preface.adoc[]
+
+<<<
+
+:sectnums:
+
+include::chapters/chapter1.adoc[]
+
+<<<
+
+include::chapters/chapter2.adoc[]
+
+<<<
+
+include::chapters/chapter3.adoc[]
+
+<<<
+
+:!sectnums:
+
+include::chapters/appendix.adoc[]
+
+<<<
+
+include::chapters/bibliography.adoc[]
+
+<<<

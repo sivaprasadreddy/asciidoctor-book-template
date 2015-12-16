@@ -1,0 +1,17 @@
+[colophon]
+== Copyright
+
+[abstract]
+Book Title
+
+Copyright (C) 2015 SivaLabs
+
+This book is written out of passion. You can use it in whatever way you want. 
+If you can give credit to the original author(s) that would be great.
+
+
+First published: December 2015 +
+Published by SivaLabs. +
+Hyderabad, India +
+www.sivalabs.in +
+Cover image by Siva

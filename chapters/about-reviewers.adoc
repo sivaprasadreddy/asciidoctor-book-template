@@ -1,0 +1,5 @@
+== About the Reviewers
+
+K Siva Prasad Reddy is a Software Developer living in Hyderabad, India, and having more than 9 years of experience in developing enterprise applications with Java and JavaEE technologies. Siva is a Sun Certified Java Programmer and has a lot of experience in server-side technologies such as Java, JavaEE, Spring, Hibernate, MyBatis, JSF, PrimeFaces, and WebServices (SOAP/REST). Siva is also the author of Java Persistence with MyBatis 3, Packt Publishing.
+
+Siva shares the knowledge he has acquired on his blog at www.sivalabs.in. If you want to find out more about his work, you can follow him on Twitter (@sivalabs) and GitHub (https://github.com/sivaprasadreddy).
